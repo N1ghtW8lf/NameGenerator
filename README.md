@@ -45,3 +45,4 @@ print(random_name)  # Например: "Арсений Попов"
 ## Автор
 👤 **N1ghtW8lf**
 - GitHub: [@N1ghtW8lf](https://github.com/N1ghtW8lf)
+- Telegram: [@Kitty_Dev](https://t.me/kitty_dev)
