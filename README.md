@@ -23,11 +23,11 @@ git clone https://github.com/N1ghtW8lf/NameGenerator
 from NameGenerator.main import Generator
 
 # Создание экземпляра генератора
-generator = NameGenerator()
+generator = NameGenerator(sex="male")
 
 # Получение случайного имени
 random_name = generator.get_fullname()
-print(random_name)  # Например: "Арсений"
+print(random_name)  # Например: "Арсений Попов"
 
 ```
 
