@@ -23,7 +23,7 @@ git clone https://github.com/N1ghtW8lf/NameGenerator
 from NameGenerator.main import Generator
 
 # Создание экземпляра генератора
-generator = NameGenerator(sex="male")
+generator = Generator(sex="male")
 
 # Получение случайного имени
 random_name = generator.get_fullname()
